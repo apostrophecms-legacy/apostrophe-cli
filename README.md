@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # Apostrophe CLI
 
 ⚠️ NOTE: `apostrophe-cli` is a deprecated version of the ApostropheCMS command line tool. [Please use `@apostrophecms/cli` instead.](https://www.npmjs.com/package/@apostrophecms/cli) ⚠️
